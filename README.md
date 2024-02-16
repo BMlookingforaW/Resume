@@ -1,3 +1,3 @@
 # React 
-- Demo:https://bharat-resume.vercel.app
-- 
+- Demo: https://bharat-resume.vercel.app
+  
