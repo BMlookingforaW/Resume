@@ -14,7 +14,7 @@ export const projectsData = [
         image: Work2,
         title: 'Sentiment Analysis',
         category: 'Machine Learning',
-        url: "https://github.com/BMlookingforaW/Sentimental-Analysis/blob/main/Report.pdf"
+        url: "https://sentimental-analysis-app.vercel.app"
     },
 ]
 
